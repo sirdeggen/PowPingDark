@@ -1,3 +1,21 @@
+html {
+  background: black !important;
+}
+
+div {
+  color: white;
+  background: #101010 !important;
+}
+
+nav > * > div, nav > div {
+  background: unset;
+}
+
+.filter {
+  filte: invert(1);
+  background: white;
+}
+
 * {
-  border-radius: 0px !important;
+  border-radius: 5px !important;
 }
