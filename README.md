@@ -2,7 +2,7 @@
 
 Say yes to darkness on PowPing
 
-![gif](https://twitter.com/i/status/1285267676265406466)
+![gif](https://media.giphy.com/media/VhK9tEn1uWLUOGvyST/giphy.gif)
 
 # Usage
 
