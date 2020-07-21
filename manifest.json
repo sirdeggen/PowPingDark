@@ -1,8 +1,8 @@
 {
-  "name": "edgyhub",
+  "name": "PowPingDark",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "i hate rounded edges",
+  "description": "i hate white backgrounds",
   "content_scripts": [
     {
       "matches": ["*://powping.com/*"],
