@@ -3,17 +3,27 @@ html {
 }
 
 div {
-  color: white;
+  color: white !important;
   background: #101010 !important;
 }
 
-nav > * > div, nav > div {
-  background: unset;
+nav {
+  color: white !important;
+  background: #101010 !important;
+}
+
+nav a {
+  color: white !important;
+}
+
+nav .brand a:after {
+  color: white;
+  content: 'DARK'
 }
 
 .filter {
-  filte: invert(1);
-  background: white;
+  background: white !important;
+  filter: invert(1);
 }
 
 * {
