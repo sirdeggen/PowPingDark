@@ -16,7 +16,7 @@ nav a {
   color: white !important;
 }
 
-nav .brand a:after {
+nav a.brand:after {
   color: white;
   content: 'DARK'
 }
