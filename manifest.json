@@ -5,7 +5,7 @@
   "description": "i hate rounded edges",
   "content_scripts": [
     {
-      "matches": ["*://github.com/*"],
+      "matches": ["*://powping.com/*"],
       "css": ["main.css"]
     }
   ]
