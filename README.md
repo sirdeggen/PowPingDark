@@ -6,10 +6,12 @@ Say yes to darkness on PowPing
 
 # Usage
 
-## Instructional Video
-
-[![thumb](https://i.imgur.com/twvLLHO.jpg)](https://youtu.be/5DhzojcBlCU)
 
 1. Open [chrome://extensions/](chrome://extensions/)
 2. Click "Load unpacked"
 3. Add the PowPingDark folder. Done!
+
+
+## Walkthrough Installation Video
+
+[![thumb](https://i.imgur.com/twvLLHO.jpg)](https://youtu.be/5DhzojcBlCU)
