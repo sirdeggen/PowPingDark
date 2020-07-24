@@ -12,6 +12,6 @@ Say yes to darkness on PowPing
 3. Add the PowPingDark folder. Done!
 
 
-## Walkthrough Installation Video
+## Walkthrough Video
 
 [![thumb](https://i.imgur.com/twvLLHO.jpg)](https://youtu.be/5DhzojcBlCU)
