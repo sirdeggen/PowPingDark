@@ -29,3 +29,7 @@ nav a.brand:after {
 * {
   border-radius: 5px !important;
 }
+
+.dropdown-item {
+   color:white !important; 
+}
